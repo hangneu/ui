@@ -1,0 +1,27 @@
+body {
+	background-image: url('background.jpg');
+  	padding-top: 70px;
+}
+
+.mainBody {
+	margin: 10% 10% 10% 10%;
+}
+
+.picture {
+	text-align: center;
+}
+
+img.searchPic {
+	width: 20%;
+}
+
+.search {
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.outcome {
+	text-align: center;
+	margin-top: 2em;
+}
